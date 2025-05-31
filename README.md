@@ -20,10 +20,6 @@ A full-stack educational platform with a Flutter front-end and Node.js back-end,
 - File upload support
 - Data validation
 
-## 📱 Screenshots
-
-[Add your app screenshots here]
-
 ## 🛠️ Tech Stack
 
 ### Front-end
@@ -159,9 +155,6 @@ npm start
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👥 Authors
-
-- Your Name - Initial work
 
 ## 🙏 Acknowledgments
 
